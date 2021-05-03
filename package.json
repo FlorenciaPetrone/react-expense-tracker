@@ -2,7 +2,7 @@
   "name": "react-expense-tracker",
   "version": "0.1.0",
   "private": true,
-  "home": "https://FlorenciaPetrone.github.io/react-expense-tracker",
+  "homepage": "https://FlorenciaPetrone.github.io/react-expense-tracker",
   "dependencies": {
     "cra-template": "1.1.2",
     "react": "^17.0.2",
